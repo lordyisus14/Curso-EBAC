@@ -1,9 +1,8 @@
-x = 2
+x = int(imput("ingresa el numero 2: "))
 y = 4
-X - y == 2
 
 if x - y == 2:
     print("e verdad")
 else: 
-    print("estas errado")
+    print("mentiroso no pusiste el numero 2, pusiste ", x )
 
