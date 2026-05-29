@@ -2,7 +2,7 @@ x = int(imput("ingresa el numero 2: "))
 y = 4
 
 if x - y == 2:
-    print("e verdad")
+    print("e verdad, e un 2")
 else: 
     print("mentiroso no pusiste el numero 2, pusiste ", x )
 
